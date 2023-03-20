@@ -1,7 +1,7 @@
 {
-  "name": "minimus",
+  "name": "weathermeter",
   "version": "1.0.0",
-  "author": "Magnetoasher<magnetoasher@gmail.com>",
+  "author": "Magnetoasher<xcaliburtriam@gmail.com>",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
