@@ -1,4 +1,4 @@
-# Minimus
+# WeatherMeter
 Weather App built with Angular
 
 ## Development server
